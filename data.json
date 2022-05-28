@@ -1,0 +1,203 @@
+{
+  "loginUsersList": [
+    {
+      "email": "naseem@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "email": "naseem@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "email": "ali@gmail.com",
+      "password": "1234565",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 12,
+      "cusName": "aHedley Rosales",
+      "city": "Non est tempor omnis",
+      "email": "fuwugiwuny@mailinator.com",
+      "address": "Magnam et et alias n",
+      "phone": "+1 (674) 689-7965"
+    },
+    {
+      "id": 13,
+      "cusName": "ghalib",
+      "city": "karachi",
+      "email": "wokit@mailinator.com",
+      "address": "Aliqua Corporis acc",
+      "phone": "123456"
+    },
+    {
+      "cusName": "Malcolm Vincent",
+      "city": "Et quis id exercitat",
+      "email": "dujeme@mailinator.com",
+      "address": "Incididunt officia e",
+      "phone": "+1 (441) 152-5036",
+      "id": 15
+    },
+    {
+      "cusName": "Maite Clements",
+      "city": "Dicta ipsam sint ar",
+      "email": "jawepa@mailinator.com",
+      "address": "Inventore quos omnis",
+      "phone": "+1 (128) 224-5552",
+      "id": 16
+    },
+    {
+      "cusName": "Lareina Moody",
+      "city": "Autem lorem dolore e",
+      "email": "gepyciq@mailinator.com",
+      "address": "In tempore sit et ",
+      "phone": "+1 (212) 426-4488",
+      "id": 17
+    },
+    {
+      "cusName": "Ali Perry",
+      "city": "Voluptatem sint quis",
+      "email": "kopuwa@mailinator.com",
+      "address": "At enim occaecat bea",
+      "phone": "+1 (377) 779-9349",
+      "id": 18
+    },
+    {
+      "cusName": "Hayes Bird",
+      "city": "Sequi deserunt quod ",
+      "email": "syferit@mailinator.com",
+      "address": "Nostrud molestias no",
+      "phone": "+1 (779) 943-1339",
+      "id": 19
+    },
+    {
+      "cusName": "Aimee Witt",
+      "city": "Maiores est duis et ",
+      "email": "dibe@mailinator.com",
+      "address": "Odio aspernatur cons",
+      "phone": "+1 (672) 828-2045",
+      "id": 23
+    },
+    {
+      "id": 24,
+      "cusName": "Yen Carveraaaaaaaaaaaa",
+      "city": "Quod assumenda volup",
+      "email": "likyzujose@mailinator.com",
+      "address": "Elit adipisci dolor",
+      "phone": "+1 (915) 628-8093"
+    },
+    {
+      "cusName": "Cheyenne Avery",
+      "city": "In ullam aut impedit",
+      "email": "wuxyva@mailinator.com",
+      "address": "Sequi eaque irure pr",
+      "phone": "+1 (409) 361-2473",
+      "id": 25
+    },
+    {
+      "cusName": "Carissa Acevedo",
+      "city": "Vel illum enim nece",
+      "email": "peseka@mailinator.com",
+      "address": "Quo laudantium dolo",
+      "phone": "+1 (753) 399-1658",
+      "id": 26
+    },
+    {
+      "cusName": "Nadine Bond",
+      "city": "At consequuntur hic ",
+      "email": "neqil@mailinator.com",
+      "address": "Fugit sunt laborum ",
+      "phone": "+1 (515) 712-1647",
+      "id": 27
+    },
+    {
+      "cusName": "Fiona Foreman",
+      "city": "Aut qui eveniet dol",
+      "email": "ninyt@mailinator.com",
+      "address": "Adipisicing numquam ",
+      "phone": "+1 (907) 521-9819",
+      "id": 28
+    },
+    {
+      "cusName": "Tatum Rice",
+      "city": "Maxime non voluptate",
+      "email": "jufytevi@mailinator.com",
+      "address": "Est soluta voluptate",
+      "phone": "+1 (579) 649-6419",
+      "id": 29
+    },
+    {
+      "cusName": "Clinton Cortez",
+      "city": "Consequatur error e",
+      "email": "syxizyzonu@mailinator.com",
+      "address": "Consequatur esse qu",
+      "phone": "+1 (807) 298-8074",
+      "id": 30
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "items": "cake",
+      "quantity": 5,
+      "price": 58
+    },
+    {
+      "id": 2,
+      "items": "cakeaaa",
+      "quantity": 55,
+      "price": 99
+    },
+    {
+      "id": 3,
+      "items": "Fuga ",
+      "quantity": 221,
+      "price": 51
+    },
+    {
+      "id": 4,
+      "items": "Facilis ",
+      "quantity": 68,
+      "price": 286
+    },
+    {
+      "items": "Dolore soluta ducimu",
+      "quantity": 356,
+      "price": 809,
+      "id": 5
+    },
+    {
+      "items": "Omnis eum nihil quam",
+      "quantity": 938,
+      "price": 234,
+      "id": 6
+    },
+    {
+      "items": "Excepteur maiores re",
+      "quantity": 480,
+      "price": 504,
+      "id": 7
+    },
+    {
+      "items": "Veniam dolor aut et",
+      "quantity": 488,
+      "price": 721,
+      "id": 9
+    },
+    {
+      "items": "Omnis ea in ex dolor",
+      "quantity": 984,
+      "price": 225,
+      "id": 10
+    },
+    {
+      "id": 11,
+      "items": "Veniam laudantium s",
+      "quantity": 678,
+      "price": 82
+    }
+  ]
+}
